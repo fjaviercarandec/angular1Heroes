@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ejercicio1heroes"
+  "defaultProject": "ejercicio1heroes",
+  "cli": {
+    "analytics": false
+  }
 }
